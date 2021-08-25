@@ -1,0 +1,120 @@
+<style>
+
+#login
+{
+    position: absolute;
+    top:0px;
+    left:1020px;
+}
+#reg
+{
+    position: absolute;
+    top:0px;
+    left:1080px;
+}
+#car
+{
+    display: 'block'; 
+
+}
+#signup
+{
+    display: none;
+}
+#signin
+{
+    display: none;
+}
+#ediv
+{
+    position: absolute;
+    top:243px;
+    left:673px;
+
+}
+#pdiv
+{
+    position: absolute;
+    top:311px;
+    left:673px;
+
+}
+#slogin
+{
+    position: absolute;
+    top:441px;
+    left:672px;
+}
+.pbtn
+ {
+        cursor: pointer;
+        font-size: 16px;    
+        border: none;
+        outline: none;
+        color: black;
+        padding: 0px 0px;
+        background-color: #fff;
+        font-family: inherit;
+ }
+ #a1
+ {
+        position: absolute;
+        top:0px;
+        left:947px;
+ }
+ #a2
+ {
+        position: absolute;
+        top:8px;
+        left:980px;
+ }
+ #sports
+ {
+    display: block ;
+ }
+ #boxing
+ {
+    
+    display: none;
+ }
+ #cricket
+ {
+    display: none;
+ }
+ #athletics
+ {
+    display: none;
+ }
+ #swimming
+ {
+    display: none;
+ }
+ #box_clothing
+ {
+    display: none;
+ }
+ #box_accessories
+ {
+    display: none;
+ }
+ #box_gloves
+ {
+    display: none;
+ }
+ #box_trainers
+ {
+    display: none;
+ }
+ #box_sets
+ {
+    display: none;
+ }
+ #box_mmagloves
+{
+    display: none;
+}
+#box_protect
+{
+    display: none;
+}
+</style>
