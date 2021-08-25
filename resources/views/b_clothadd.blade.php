@@ -43,7 +43,7 @@
         		$product=str_replace(".PNG","",$product);
         		$product=str_replace(str_split('_0123456789'),"",$product);
         		@endphp
-				<td></td>
+				<td>{{$product}}</td>
 					
 
 				@php
