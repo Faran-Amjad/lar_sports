@@ -127,7 +127,7 @@ public function check($id)
         // dd($var->price);
         $oid->price=$var->price;
 
-        $product=str_replace("http://localhost/lar_sports/public/storage/images/","",$var->image);
+        $product=str_replace("http://localhost/projects/lar_sports/storage/app/public/images/","",$var->image);
         $product=str_replace(".PNG","",$product);
         $product=str_replace(str_split('_0123456789'),"",$product);
 
