@@ -132,7 +132,7 @@ public function check($id)
         $product=str_replace(str_split('_0123456789'),"",$product);
 
         $oid->product=$product;
-        // $var=BoxClothController::where('id',session('uid'))->get(['id']);
+        // $var=BoxClothController::where('id',('uid'))->get(['id']);
         $oid->save(); 
 
         return view('orders'); 
