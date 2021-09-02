@@ -25,7 +25,7 @@
 	<br>
     <a href="{{route('users_all')}}"> See Users</a>
     <br>
-    <a href="main.php">Logout</a>
+    <a href="{{url('/')}}">Logout</a>
     <br>
     <table align="center">
         <tr><th>ADD ITEMS</th></tr>
